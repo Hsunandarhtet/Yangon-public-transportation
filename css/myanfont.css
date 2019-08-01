@@ -1,0 +1,11 @@
+@font-face{
+    font-family:'Zawgyi-One';
+    src:url('zawgyi.eot');
+    src:local('Zawgyi-One'),url('zawgyi.ttf') format('truetype'),url('zawgyi.woff') format('woff'), url('zawgyi.svg') format('svg');
+}
+.myanfont{
+    font-family: 'Zawgyi-One' !important;
+}
+.aboutbody{
+		font-size: 18px !important;
+	}
